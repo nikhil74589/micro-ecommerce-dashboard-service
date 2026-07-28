@@ -1,7 +1,7 @@
 # docker-compose.yml
   services:
     dashboard:
-      image:  nikhil74589/micro-ecommerce-dashboard-service:1.0
+      image:  nikhil74589/ecommerce-dashboard:1.0
       container_name: ecommerce-dashboard
       ports:
         - "80:80"
