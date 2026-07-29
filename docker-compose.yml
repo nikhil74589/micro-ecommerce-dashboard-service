@@ -9,7 +9,7 @@
         USER_HOST: 10.0.0.62
         PROFILE_HOST: 10.0.24.229
         PRODUCT_HOST: localhost
-        CART_HOST: localhost
+        CART_HOST: 10.0.25.142
         ORDER_HOST: localhost
         PAYMENT_HOST: localhost
       restart: unless-stopped
