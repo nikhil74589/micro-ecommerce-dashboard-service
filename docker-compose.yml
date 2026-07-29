@@ -7,7 +7,7 @@
         - "80:80"
       environment:
         USER_HOST: 10.0.0.62
-        PROFILE_HOST: localhost
+        PROFILE_HOST: 10.0.24.229
         PRODUCT_HOST: localhost
         CART_HOST: localhost
         ORDER_HOST: localhost
